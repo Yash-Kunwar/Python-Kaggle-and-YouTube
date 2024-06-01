@@ -6,7 +6,7 @@ class Employee:
 
 
 class Programer(Employee):
-    language = 'python'
+    language = 'Python'
     company = 'YouTube'
 
     def getLang(self):
