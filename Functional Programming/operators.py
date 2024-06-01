@@ -13,7 +13,7 @@ print(c)
 print(d)
 print(n)
 
-# printing the type of variables
+# Printing the type of variables
 print(type(a))
 print(type(b))
 print(type(c))
