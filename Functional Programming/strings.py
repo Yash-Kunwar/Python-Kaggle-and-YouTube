@@ -2,7 +2,7 @@ b = "yash"
 print(b)
 print(type(b))
 greetings = "gu'mornin, "
-c = greetings+b #concatenating to strings
+c = greetings+b # concatenating to strings
 print(c)
 name = "YashDidIt"
 print(name[3])
