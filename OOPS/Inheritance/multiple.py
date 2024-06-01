@@ -4,7 +4,7 @@ class Employee:
 
 
 class Freelancer:
-    company = 'fiverr'
+    company = 'apple'
     level = 0
 
     def upgradeLevel(self):
