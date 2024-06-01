@@ -2,7 +2,7 @@ class Employee:
     company = 'google'
 
     def showDetails(self):
-        print('this is employee class')
+        print('this is an employee class')
 
 
 class Programer(Employee):
@@ -13,7 +13,7 @@ class Programer(Employee):
         print(f'the language is {self.language}')
 
     def showDetails(self):
-        print('this is programer class')
+        print('this is a programer class')
 
 
 e = Employee()
