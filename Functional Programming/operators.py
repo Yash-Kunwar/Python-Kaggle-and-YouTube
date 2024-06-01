@@ -6,7 +6,7 @@ c = 123.321
 d = True
 n = None
 
-# printing the variables
+# Printing the variables
 print(a)
 print(b)
 print(c)
