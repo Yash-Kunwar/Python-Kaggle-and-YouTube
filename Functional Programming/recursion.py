@@ -1,3 +1,4 @@
+# calling a function in its function
 def fact(n):
     factorial = 1
     for n in range(1, n+1):
